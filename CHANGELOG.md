@@ -15,6 +15,7 @@ The changes you'd notice in the Marvelous Clawds universe, newest first. Clawdve
 - **Powers that look right.** Only the real lightning throwers (Stormy, Elektro, Wikkan) still crackle with it; Thanoz, Doctor Gloom, Dormamoo, Mefisto and the other casters fire a steady stream in their own colour, and Emma Frosty turns to diamond and fights hand to hand.
 - **Upgrading takes care of itself.** Clawd Clash takes over the AIs the old app had connected, quits it and starts in Marvelous Clawds. The Homebrew cask `clawdvengers-clawd-wars` installs Clawd Clash, starting in Marvelous Clawds.
 - **A new icon**: a comic cover in three panels, one per universe, with Spider-Clawd hanging from his web in the Marvelous Clawds one.
+- **A new trailer.** The video at the top of this page is redrawn with the Marvelous Clawds names, art and logos: MARVELOUS CLAWDS on the title and the end card, Captain Americlawd, Thanoz, Spider-Clawd and the rest, and the space whale's back no longer cut off as it dives out of the portal.
 
 ## 0.1.0: the first Marvelous Clawds release
 
