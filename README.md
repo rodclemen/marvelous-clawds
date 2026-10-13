@@ -125,7 +125,7 @@ The scene is set **where the first session's character belongs**: Clawvengers To
 Clawvengers: Clawd Wars is now the Clawvel universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
 
 ```sh
-brew install --cask rodclemen/tap/avengers-clawd-wars
+brew install --cask rodclemen/tap/clawvengers-clawd-wars
 ```
 
 That installs Clawd Clash, starting in Clawvel. `brew install --cask rodclemen/tap/clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.

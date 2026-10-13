@@ -13,7 +13,7 @@ The changes you'd notice in the Clawvel universe, newest first. Clawvengers: Cla
 - **Keep Characters on Top**, or not: the desktop crew can now live on the desktop itself, behind your windows.
 - **The screen saver picks its own universe** in its Options, Random included, and no longer goes missing from System Settings' list after an update.
 - **Powers that look right.** Only the real lightning throwers (Stormy, Elektro, Wikkan) still crackle with it; Thanoz, Doctor Gloom, Dormamoo, Mefisto and the other casters fire a steady stream in their own colour, and Emma Frosty turns to diamond and fights hand to hand.
-- **Upgrading takes care of itself.** Clawd Clash takes over the AIs the old app had connected, quits it and starts in Clawvel. The Homebrew cask `avengers-clawd-wars` now installs Clawd Clash.
+- **Upgrading takes care of itself.** Clawd Clash takes over the AIs the old app had connected, quits it and starts in Clawvel. The Homebrew cask `clawvengers-clawd-wars` installs Clawd Clash, starting in Clawvel.
 - **A new icon**: a comic cover in three panels, one per universe, with Spider-Clawd hanging from his web in the Clawvel one.
 
 ## 0.1.0: the first Clawvel release
