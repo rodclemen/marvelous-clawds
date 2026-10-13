@@ -98,6 +98,10 @@ Every shooter has its own shots: Iron Man's and Captain Marvel's blasts, Cyclops
 
 It opens in a window by default (switch to the desktop from the menu): the whole crew in a scene, with a card for every session: its project, what it's doing right now, your last prompt, its last reply, and its agents in a little tree.
 
+<p align="center">
+  <img src="docs/window-avengers-tower.png" alt="Window mode at Avengers Tower: Captain America with Iron Man and Thor, Red Skull on Codex, Loki on Gemini CLI" width="760">
+</p>
+
 The scene is set **where the first session's character belongs**: Avengers Tower for Iron Man, the Sanctum for Doctor Strange, Wakanda for Black Panther, Titan for Thanos. 43 places, each with something moving: windows lighting up and a Quinjet crossing the Manhattan skyline, the Seal of the Vishanti in the Sanctum's window, Talon fighters over the Golden City, the Bifrost shimmering, the Sakaar crowd cheering, Knowhere's neon flickering, rain over Hell's Kitchen, Castle Doom in a lightning storm, the Chitauri pouring out of the portal over New York, Dormammu's face looming, pterodactyls over the Savage Land, Galactus devouring a planet past the Worldship's viewport, the TVA's clock ticking, Miss Minutes and all, the Quinjet on the Avengers Compound's pad, a hologram turning in Tony Stark's workshop, cabs and pigeons in Spider-Man's New York, lanterns over Ta Lo:
 
 <p align="center">
