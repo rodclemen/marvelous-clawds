@@ -1,12 +1,12 @@
-# Clawvengers: Clawd Wars
+# Clawdvengers: Clawd Wars
 
-> The showcase page for Clawvel, the comic-book universe of Clawd Clash (https://github.com/rodclemen/clawd-clash), a free macOS app that shows Claude Code, Codex, Qwen Code, Gemini CLI and GitHub Copilot CLI sessions as pixel-art heroes and villains fighting on your desktop or in a window. This repo holds no code: only the README, pictures, the promo video and a plain-language changelog. The app, its source and its full history live in the Clawd Clash repo.
+> The showcase page for Marvelous Clawds, the comic-book universe of Clawd Clash (https://github.com/rodclemen/clawd-clash), a free macOS app that shows Claude Code, Codex, Qwen Code, Gemini CLI and GitHub Copilot CLI sessions as pixel-art heroes and villains fighting on your desktop or in a window. This repo holds no code: only the README, pictures, the promo video and a plain-language changelog. The app, its source and its full history live in the Clawd Clash repo.
 
-- Clawvel has 193 characters (105 heroes, 88 villains) and 43 places, all with parody names: Iron Clawd, Captain Ameriklaw, Thorr, Spider-Clawd, Clawverine, Thanoz, Lokee, Clawvengers Tower, Wakandu, Asgaard, the Clawjet and the Milano.
-- Install: `brew install --cask rodclemen/tap/clawvengers-clawd-wars` (installs Clawd Clash, starting in Clawvel), `brew install --cask rodclemen/tap/clawd-clash`, or https://github.com/rodclemen/clawd-clash/releases.
-- The other universes: Star Claws (https://github.com/rodclemen/clawd-wars) and Detective Claws (https://github.com/rodclemen/clawstice-league-clawd-wars).
+- Marvelous Clawds has 193 characters (105 heroes, 88 villains) and 43 places, all with parody names: Iron Clawd, Captain Ameriklaw, Thorr, Spider-Clawd, Clawverine, Thanoz, Lokee, Clawdvengers Tower, Wakandu, Asgaard, the Clawjet and the Milano.
+- Install: `brew install --cask rodclemen/tap/clawdvengers-clawd-wars` (installs Clawd Clash, starting in Marvelous Clawds), `brew install --cask rodclemen/tap/clawd-clash`, or https://github.com/rodclemen/clawd-clash/releases.
+- The other universes: Star Clawds (https://github.com/rodclemen/clawd-wars) and Detective Clawds (https://github.com/rodclemen/justice-clawds-clawd-wars).
 
 ## Docs
 
 - [README.md](README.md): what it is, the cast, places, fights, install.
-- [CHANGELOG.md](CHANGELOG.md): what changed in the Clawvel universe, in plain words.
+- [CHANGELOG.md](CHANGELOG.md): what changed in the Marvelous Clawds universe, in plain words.

@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="docs/app-icon.png" width="180" alt="Clawvengers: Clawd Wars icon: Captain Ameriklaw holding up his shield against a blast from Thanoz">
+  <img src="docs/app-icon.png" width="180" alt="Clawdvengers: Clawd Wars icon: Captain Ameriklaw holding up his shield against a blast from Thanoz">
 </p>
 
-<h1 align="center">Clawvengers: Clawd Wars</h1>
+<h1 align="center">Clawdvengers: Clawd Wars</h1>
 
 <p align="center">
-  <b>Your Claude Code, Codex, Qwen Code, Gemini CLI and GitHub Copilot CLI sessions, as a pixel-art Clawvel battle on your desktop.</b><br>
+  <b>Your Claude Code, Codex, Qwen Code, Gemini CLI and GitHub Copilot CLI sessions, as a pixel-art Marvelous Clawds battle on your desktop.</b><br>
   Every session is a hero or a villain, every subagent joins in, and they fight while they work.
 </p>
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/ed78aa3c-79ec-4827-a56b-b6590f905686
   <img src="docs/desktop.png" alt="Sessions and agents fighting along the bottom of the screen: Thanoz blasting Iron Clawd in the air, Spider-Clawd webbing the Green Gobbler, Clawverine and Sabreclaw, Red Skulk firing at Captain Ameriklaw's shield">
 </p>
 
-> **Clawvengers: Clawd Wars is now part of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with three universes: **Clawvel**, **Star Claws** and **Detective Claws**. This page shows off the Clawvel one. Everything else (all three universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
+> **Clawdvengers: Clawd Wars is now part of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with three universes: **Marvelous Clawds**, **Star Clawds** and **Detective Clawds**. This page shows off the Marvelous Clawds one. Everything else (all three universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
 
 ---
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/ed78aa3c-79ec-4827-a56b-b6590f905686
 
 You run Claude Code in three terminals. One is thinking, one is waiting for your permission, one finished ten minutes ago and you didn't notice. You alt-tab around to find out.
 
-**Clawvengers: Clawd Wars tells you at a glance, without switching windows.**
+**Clawdvengers: Clawd Wars tells you at a glance, without switching windows.**
 
 - 🛡️ **Working?** Your Claude fights: Captain Ameriklaw swings his shield, Iron Clawd fires repulsors, Doctor Stranger casts.
 - 💭 **Thinking?** A thought bubble.
@@ -55,22 +55,22 @@ You run Claude Code in three terminals. One is thinking, one is waiting for your
 
 ## Claude vs Codex vs everyone
 
-**Claude Code plays the heroes.** Run it alongside **OpenAI Codex**, **Qwen Code**, **Gemini CLI** or **GitHub Copilot CLI** and Claude's sessions and agents are Clawvengers, X-Claws and friends, while the other AI's are Thanoz, Doctor Gloom, Magnetto and the rest. With only Claude running, anyone can turn up, so heroes and villains mix.
+**Claude Code plays the heroes.** Run it alongside **OpenAI Codex**, **Qwen Code**, **Gemini CLI** or **GitHub Copilot CLI** and Claude's sessions and agents are Clawdvengers, X-Claws and friends, while the other AI's are Thanoz, Doctor Gloom, Magnetto and the rest. With only Claude running, anyone can turn up, so heroes and villains mix.
 
 You can tell the AIs apart at a glance: Claude's characters keep the white outline; Codex gets cyan, Qwen Code lavender, Gemini CLI gold and Copilot CLI mint. Claude Code sessions in the **Claude desktop app** have a coral outline.
 
 ## The cast
 
-**193 characters and 43 places**, every character Clawd (Claude Code's little pixel mascot) in costume, all of it drawn in code: the Clawvengers, the X-Claws, the Guardians of the Clawlaxy, the Fanclawstic Four and the street-level heroes against Thanoz, Lokee, Ultraton, Doctor Gloom, Magnetto, Spider-Clawd's rogues, Hydrax and more. Nearly every character has a signature move it does when idle.
+**193 characters and 43 places**, every character Clawd (Claude Code's little pixel mascot) in costume, all of it drawn in code: the Clawdvengers, the X-Claws, the Guardians of the Clawlaxy, the Fanclawstic Four and the street-level heroes against Thanoz, Lokee, Ultraton, Doctor Gloom, Magnetto, Spider-Clawd's rogues, Hydrax and more. Nearly every character has a signature move it does when idle.
 
 <p align="center">
-  <img src="docs/roster.png" alt="The whole Clawvel cast, heroes and villains" width="760">
+  <img src="docs/roster.png" alt="The whole Marvelous Clawds cast, heroes and villains" width="760">
 </p>
 
 <details>
 <summary><b>105 heroes</b></summary>
 
-Iron Clawd, Captain Ameriklaw, Thorr, The Bulk, Black Window, Hawk-I, Spider-Clawd, Black Panthah, Doctor Stranger, Scarlet Glitch, Vizion, Captain Clawvel, Aunt-Man, The Waspette, Falconer, Winter Trooper, Star-Laird, Gamura, Drex the Destroyer, Racket, Grout, Mantys, Nick Furie, She-Bulk, Clawverine, Cyclopz, Stormy, Jeanne Grae, Professor Why, The Beest, Nightclawler, Gamblit, Rouge, Ice Dude, Colossos, Human Blowtorch, The Thingamajig, Mr. Fanclawstic, Invisibelle, Silver Server, Daredemon, Deadpond, Shang-Chee, Ms. Clawvel, Moon Night, Ghost Biker, War Machina, Wikkan, Speedy, Quicksliver, Kat Bishopp, Yelena Belovna, Okoya, Shuree, Valkyria, Kork, Wonk, Herakles, Sentree, Kosmo the Space Dog, Kraglen, Adam Warlocke, Novah, Kitty Pride, Jubilette, Psyloque, Bisshop, Kable, Havoc, Emma Frosty, Bansheen, Angell, Dominoe, Y-23, Myles Moralez, Spider-Gwyn, Spider-Lady, Black Kat, Luke Kage, Iron Fyst, Jessie Jonez, The Punnisher, Elecktra, Blayde, Black Nite, Monika Rambeaux, Kleah, Doctor Hoodoo, Harold the Duck, Squirrel Gal, Geoff the Land Shark, Frogg of Thunder, Lockjaws, Furbush Man, Moebius, Sylvi, Kid Lokee, Alligator Lokee, Hunter C-16, Red Guardsman, Ka-Zarr, Rescuer, Zabo, Morrie and Dumb-E. Geoff the Land Shark, Zabo, Morrie and Dumb-E only ever show up as agents.
+Iron Clawd, Captain Ameriklaw, Thorr, The Bulk, Black Window, Hawk-I, Spider-Clawd, Black Panthah, Doctor Stranger, Scarlet Glitch, Vizion, Captain Marvelous, Aunt-Man, The Waspette, Falconer, Winter Trooper, Star-Laird, Gamura, Drex the Destroyer, Racket, Grout, Mantys, Nick Furie, She-Bulk, Clawverine, Cyclopz, Stormy, Jeanne Grae, Professor Why, The Beest, Nightclawler, Gamblit, Rouge, Ice Dude, Colossos, Human Blowtorch, The Thingamajig, Mr. Fanclawstic, Invisibelle, Silver Server, Daredemon, Deadpond, Shang-Chee, Ms. Marvelous, Moon Night, Ghost Biker, War Machina, Wikkan, Speedy, Quicksliver, Kat Bishopp, Yelena Belovna, Okoya, Shuree, Valkyria, Kork, Wonk, Herakles, Sentree, Kosmo the Space Dog, Kraglen, Adam Warlocke, Novah, Kitty Pride, Jubilette, Psyloque, Bisshop, Kable, Havoc, Emma Frosty, Bansheen, Angell, Dominoe, Y-23, Myles Moralez, Spider-Gwyn, Spider-Lady, Black Kat, Luke Kage, Iron Fyst, Jessie Jonez, The Punnisher, Elecktra, Blayde, Black Nite, Monika Rambeaux, Kleah, Doctor Hoodoo, Harold the Duck, Squirrel Gal, Geoff the Land Shark, Frogg of Thunder, Lockjaws, Furbush Man, Moebius, Sylvi, Kid Lokee, Alligator Lokee, Hunter C-16, Red Guardsman, Ka-Zarr, Rescuer, Zabo, Morrie and Dumb-E. Geoff the Land Shark, Zabo, Morrie and Dumb-E only ever show up as agents.
 
 </details>
 
@@ -92,11 +92,11 @@ Thanoz, Lokee, Ultraton, Red Skulk, Doctor Gloom, Hel, Ronnan the Accuser, Nebul
 | ranged vs ranged | | a proper shoot-out: they duck, shots collide mid-air, shields flash, shots ping off armour |
 | odd one out | | cheers the others on, with sparkles |
 
-Every shooter has its own shots: Iron Clawd's and Captain Clawvel's blasts, Cyclopz's and the Sentinals' beams, Spider-Clawd's webs, Hawk-I's arrows, the Human Blowtorch's and Fin Fang Fume's fire, Ice Dude's ice, Gamblit's charged cards, Bullseyes' knives, the Green Gobbler's pumpkin bombs. Magic streams come in each caster's colours: Doctor Stranger orange, Scarlet Glitch red, Lokee green, Thanoz purple, while Stormy, Elektro and Wikkan throw forked lightning.
+Every shooter has its own shots: Iron Clawd's and Captain Marvelous's blasts, Cyclopz's and the Sentinals' beams, Spider-Clawd's webs, Hawk-I's arrows, the Human Blowtorch's and Fin Fang Fume's fire, Ice Dude's ice, Gamblit's charged cards, Bullseyes' knives, the Green Gobbler's pumpkin bombs. Magic streams come in each caster's colours: Doctor Stranger orange, Scarlet Glitch red, Lokee green, Thanoz purple, while Stormy, Elektro and Wikkan throw forked lightning.
 
 **Arch-enemies find each other first**: whenever both are fighting, Captain Ameriklaw takes on Red Skulk, Thorr takes Lokee or Hel, Spider-Clawd the Green Gobbler or Venum, Clawverine Sabreclaw, Black Panthah Kilmongre, Doctor Stranger Dormamoo, The Bulk the Abominator, Daredemon the Kingping or Bullseyes, the Silver Server Galacticus, Aunt-Man Kangg the Conqueror, and more, wherever they are in the line.
 
-**They move like themselves**: Iron Clawd, Thorr, Captain Clawvel, Vizion, Stormy, the Silver Server and the other flyers take off when they cross the stage and land where they're going, and every so often take to the air where they stand; in a fight, the shooters and casters among them go up and keep firing from there. Doctor Stranger, Magnetto, MOODOK and Dormamoo hover; Spider-Clawd swings on a web line.
+**They move like themselves**: Iron Clawd, Thorr, Captain Marvelous, Vizion, Stormy, the Silver Server and the other flyers take off when they cross the stage and land where they're going, and every so often take to the air where they stand; in a fight, the shooters and casters among them go up and keep firing from there. Doctor Stranger, Magnetto, MOODOK and Dormamoo hover; Spider-Clawd swings on a web line.
 
 **Ships pick people up**: when Captain Ameriklaw, Black Window, Hawk-I, Nick Furie, The Bulk, Kat Bishopp or Yelena Belovna finish, the **Clawjet** lands for them; the Guardians of the Clawlaxy get the **Milano**.
 
@@ -105,13 +105,13 @@ Every shooter has its own shots: Iron Clawd's and Captain Clawvel's blasts, Cycl
 It opens in a window by default (switch to the desktop from the menu): the whole crew in a scene, with a card for every session: its project, what it's doing right now, your last prompt, its last reply, and its agents in a little tree. When no AI is running, the window steps aside, and it comes back when one starts.
 
 <p align="center">
-  <img src="docs/window-clawvengers-tower.png" alt="Window mode at Clawvengers Tower: Captain Ameriklaw with Iron Clawd and Thorr, Red Skulk on Codex, Lokee on Gemini CLI" width="760">
+  <img src="docs/window-clawdvengers-tower.png" alt="Window mode at Clawdvengers Tower: Captain Ameriklaw with Iron Clawd and Thorr, Red Skulk on Codex, Lokee on Gemini CLI" width="760">
 </p>
 
-The scene is set **where the first session's character belongs**: Clawvengers Tower for Iron Clawd, the Sanctum Sanctorum for Doctor Stranger, Wakandu for Black Panthah, Titan for Thanoz. 43 places, each with something moving: windows lighting up and the Clawjet crossing the skyline behind Clawvengers Tower, the rainbow bridge shimmering at Asgaard, the Sakkar crowd cheering, Nowhere's neon flickering, rain over Hell's Kitchen, Gloomveria in a lightning storm, the Chitari pouring out of the portal at the Battle of New York, Dormamoo's face looming in the Darker Dimension, pterodactyls over the Savage Lands, Galacticus devouring a planet past the Worldship's viewport, the Time Variation Agency's clock ticking, Miss Seconds and all, a hologram turning in Tony Stork's Workshop, cabs and pigeons in New York City, lanterns over Ta Loh.
+The scene is set **where the first session's character belongs**: Clawdvengers Tower for Iron Clawd, the Sanctum Sanctorum for Doctor Stranger, Wakandu for Black Panthah, Titan for Thanoz. 43 places, each with something moving: windows lighting up and the Clawjet crossing the skyline behind Clawdvengers Tower, the rainbow bridge shimmering at Asgaard, the Sakkar crowd cheering, Nowhere's neon flickering, rain over Hell's Kitchen, Gloomveria in a lightning storm, the Chitari pouring out of the portal at the Battle of New York, Dormamoo's face looming in the Darker Dimension, pterodactyls over the Savage Lands, Galacticus devouring a planet past the Worldship's viewport, the Time Variation Agency's clock ticking, Miss Seconds and all, a hologram turning in Tony Stork's Workshop, cabs and pigeons in New York City, lanterns over Ta Loh.
 
 <p align="center">
-  <img src="docs/locations.png" alt="All 43 Clawvel places" width="760">
+  <img src="docs/locations.png" alt="All 43 Marvelous Clawds places" width="760">
 </p>
 
 **Changing place is a comic-book moment.** Each move somewhere new gets a different comic-book transition: halftone dots printing in the new place, three panels slamming down, a speed-line zoom through a white flash, or an iris closing on a "MEANWHILE, IN WAKANDU…" caption box. The sound effect belongs to someone on screen: SNIKT! (Clawverine, Y-23) rips the old place open with three claw slashes, PHOOMF! (Nightclawler) is a puff of purple smoke, KRA-KA-BOOM! or THOOM! (Thorr) a storm-blue flash forking with lightning, FWIP! (any Spider-Clawd) a red web spinning out, BAROOM! (The Bulk, The Thingamajig) a green and orange blast throwing rubble, and with none of them about, the classic yellow and red KAPOW! starburst. With Deadpond on screen he often takes over: he climbs into the corner and peels the old place off the screen like a comic page, or surfs across on a giant chimichanga yelling CHIMICHANGAAAAA!, with captions of his own ("MEANWHILE, ON A SMALLER BUDGET…").
@@ -122,26 +122,26 @@ The scene is set **where the first session's character belongs**: Clawvengers To
 
 ## Get it
 
-Clawvengers: Clawd Wars is now the Clawvel universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
+Clawdvengers: Clawd Wars is now the Marvelous Clawds universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
 
 ```sh
-brew install --cask rodclemen/tap/clawvengers-clawd-wars
+brew install --cask rodclemen/tap/clawdvengers-clawd-wars
 ```
 
-That installs Clawd Clash, starting in Clawvel. `brew install --cask rodclemen/tap/clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
+That installs Clawd Clash, starting in Marvelous Clawds. `brew install --cask rodclemen/tap/clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
 
-Already have the old Clawvengers app? Clawd Clash takes over the AIs it had connected and starts in Clawvel, so the old app can go.
+Already have the old Clawdvengers app? Clawd Clash takes over the AIs it had connected and starts in Marvelous Clawds, so the old app can go.
 
 **Two more universes come with it**, one setting away (Settings… → Universe, or **Random** to switch on its own every so often):
 
-- **Star Claws**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Clawd Wars](https://github.com/rodclemen/clawd-wars).
-- **Detective Claws**: fists, swords, heat vision, power rings, clawarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Clawstice League: Clawd Wars](https://github.com/rodclemen/clawstice-league-clawd-wars).
+- **Star Clawds**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Clawd Wars](https://github.com/rodclemen/clawd-wars).
+- **Detective Clawds**: fists, swords, heat vision, power rings, clawarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Justice Clawds: Clawd Wars](https://github.com/rodclemen/justice-clawds-clawd-wars).
 
 Setup details, uninstalling and the source code are all in the [Clawd Clash README](https://github.com/rodclemen/clawd-clash#readme).
 
 ## What's new
 
-[CHANGELOG.md](CHANGELOG.md) lists what changed in the Clawvel universe, in plain words.
+[CHANGELOG.md](CHANGELOG.md) lists what changed in the Marvelous Clawds universe, in plain words.
 
 ## License
 
