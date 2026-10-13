@@ -105,7 +105,7 @@ Every shooter has its own shots: Iron Clawd's and Captain Clawvel's blasts, Cycl
 It opens in a window by default (switch to the desktop from the menu): the whole crew in a scene, with a card for every session: its project, what it's doing right now, your last prompt, its last reply, and its agents in a little tree. When no AI is running, the window steps aside, and it comes back when one starts.
 
 <p align="center">
-  <img src="docs/window-avengers-tower.png" alt="Window mode at Clawvengers Tower: Captain Ameriklaw with Iron Clawd and Thorr, Red Skulk on Codex, Lokee on Gemini CLI" width="760">
+  <img src="docs/window-clawvengers-tower.png" alt="Window mode at Clawvengers Tower: Captain Ameriklaw with Iron Clawd and Thorr, Red Skulk on Codex, Lokee on Gemini CLI" width="760">
 </p>
 
 The scene is set **where the first session's character belongs**: Clawvengers Tower for Iron Clawd, the Sanctum Sanctorum for Doctor Stranger, Wakandu for Black Panthah, Titan for Thanoz. 43 places, each with something moving: windows lighting up and the Clawjet crossing the skyline behind Clawvengers Tower, the rainbow bridge shimmering at Asgaard, the Sakkar crowd cheering, Nowhere's neon flickering, rain over Hell's Kitchen, Gloomveria in a lightning storm, the Chitari pouring out of the portal at the Battle of New York, Dormamoo's face looming in the Darker Dimension, pterodactyls over the Savage Lands, Galacticus devouring a planet past the Worldship's viewport, the Time Variation Agency's clock ticking, Miss Seconds and all, a hologram turning in Tony Stork's Workshop, cabs and pigeons in New York City, lanterns over Ta Loh.
