@@ -135,7 +135,7 @@ Already have the old Clawvengers app? Clawd Clash takes over the AIs it had conn
 **Two more universes come with it**, one setting away (Settings… → Universe, or **Random** to switch on its own every so often):
 
 - **Star Claws**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Clawd Wars](https://github.com/rodclemen/clawd-wars).
-- **Detective Claws**: fists, swords, heat vision, power rings, clawarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Clawstice League: Clawd Wars](https://github.com/rodclemen/justice-league-clawd-wars).
+- **Detective Claws**: fists, swords, heat vision, power rings, clawarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Clawstice League: Clawd Wars](https://github.com/rodclemen/clawstice-league-clawd-wars).
 
 Setup details, uninstalling and the source code are all in the [Clawd Clash README](https://github.com/rodclemen/clawd-clash#readme).
 

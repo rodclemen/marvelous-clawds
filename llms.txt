@@ -4,7 +4,7 @@
 
 - Clawvel has 193 characters (105 heroes, 88 villains) and 43 places, all with parody names: Iron Clawd, Captain Ameriklaw, Thorr, Spider-Clawd, Clawverine, Thanoz, Lokee, Clawvengers Tower, Wakandu, Asgaard, the Clawjet and the Milano.
 - Install: `brew install --cask rodclemen/tap/avengers-clawd-wars` (installs Clawd Clash, starting in Clawvel), `brew install --cask rodclemen/tap/clawd-clash`, or https://github.com/rodclemen/clawd-clash/releases.
-- The other universes: Star Claws (https://github.com/rodclemen/clawd-wars) and Detective Claws (https://github.com/rodclemen/justice-league-clawd-wars).
+- The other universes: Star Claws (https://github.com/rodclemen/clawd-wars) and Detective Claws (https://github.com/rodclemen/clawstice-league-clawd-wars).
 
 ## Docs
 
