@@ -125,10 +125,12 @@ The scene is set **where the first session's character belongs**: Clawdvengers T
 Marvelous Clawds is a universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
 
 ```sh
-brew install --cask rodclemen/tap/marvelous-clawds
+brew tap rodclemen/tap
+brew trust rodclemen/tap      # newer Homebrew asks you to trust a third-party tap once
+brew install --cask marvelous-clawds
 ```
 
-That installs Clawd Clash, starting in Marvelous Clawds. `brew install --cask rodclemen/tap/clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
+That installs Clawd Clash, starting in Marvelous Clawds. `brew install --cask clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
 
 Already have the old Clawdvengers app? Clawd Clash takes over the AIs it had connected and starts in Marvelous Clawds, so the old app can go.
 
