@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/app-icon.png" width="180" alt="Clawdvengers: Clawd Wars icon: Captain Americlawd holding up his shield against a blast from Thanoz">
+  <img src="docs/app-icon.png" width="180" alt="Marvelous Clawds icon: Captain Americlawd holding up his shield against a blast from Thanoz">
 </p>
 
-<h1 align="center">Clawdvengers: Clawd Wars</h1>
+<h1 align="center">Marvelous Clawds</h1>
 
 <p align="center">
   <b>Your Claude Code, Codex, Qwen Code, Gemini CLI and GitHub Copilot CLI sessions, as a pixel-art Marvelous Clawds battle on your desktop.</b><br>
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/6b4f2fc2-30cf-4566-a921-0b84d4066867
   <img src="docs/desktop.png" alt="Sessions and agents fighting along the bottom of the screen: Thanoz blasting Iron Clawd in the air, Spider-Clawd webbing the Green Gobbler, Clawdverine and Sabreclawd, Red Skulk firing at Captain Americlawd's shield">
 </p>
 
-> **Clawdvengers: Clawd Wars is now part of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with three universes: **Marvelous Clawds**, **Star Clawds** and **Detective Clawds**. This page shows off the Marvelous Clawds one. Everything else (all three universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
+> **Marvelous Clawds (formerly Clawdvengers: Clawd Wars) is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with three universes: **Marvelous Clawds**, **Star Clawds** and **Detective Clawds**. This page shows off the Marvelous Clawds one. Everything else (all three universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
 
 ---
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/6b4f2fc2-30cf-4566-a921-0b84d4066867
 
 You run Claude Code in three terminals. One is thinking, one is waiting for your permission, one finished ten minutes ago and you didn't notice. You alt-tab around to find out.
 
-**Clawdvengers: Clawd Wars tells you at a glance, without switching windows.**
+**Clawd Clash tells you at a glance, without switching windows.**
 
 - 🛡️ **Working?** Your Claude fights: Captain Americlawd swings his shield, Iron Clawd fires repulsors, Doctor Stranger casts.
 - 💭 **Thinking?** A thought bubble.
@@ -122,10 +122,10 @@ The scene is set **where the first session's character belongs**: Clawdvengers T
 
 ## Get it
 
-Clawdvengers: Clawd Wars is now the Marvelous Clawds universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
+Marvelous Clawds is a universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ (Apple Silicon or Intel) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
 
 ```sh
-brew install --cask rodclemen/tap/clawdvengers-clawd-wars
+brew install --cask rodclemen/tap/marvelous-clawds
 ```
 
 That installs Clawd Clash, starting in Marvelous Clawds. `brew install --cask rodclemen/tap/clawd-clash` installs the same app, or download the zip from [Clawd Clash's releases](https://github.com/rodclemen/clawd-clash/releases), unzip it and drag **Clawd Clash** to Applications.
@@ -134,8 +134,8 @@ Already have the old Clawdvengers app? Clawd Clash takes over the AIs it had con
 
 **Two more universes come with it**, one setting away (Settings… → Universe, or **Random** to switch on its own every so often):
 
-- **Star Clawds**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Clawd Wars](https://github.com/rodclemen/clawd-wars).
-- **Detective Clawds**: fists, swords, heat vision, power rings, clawdarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Justice Clawds: Clawd Wars](https://github.com/rodclemen/justice-clawds-clawd-wars).
+- **Star Clawds**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Star Clawds](https://github.com/rodclemen/star-clawds).
+- **Detective Clawds**: fists, swords, heat vision, power rings, clawdarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Detective Clawds](https://github.com/rodclemen/detective-clawds).
 
 Setup details, uninstalling and the source code are all in the [Clawd Clash README](https://github.com/rodclemen/clawd-clash#readme).
 
