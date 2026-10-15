@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/6b4f2fc2-30cf-4566-a921-0b84d4066867
   <img src="docs/desktop.png" alt="Sessions and agents fighting along the bottom of the screen: Thanoz blasting Iron Clawd in the air, Spider-Clawd webbing the Green Gobbler, Clawdverine and Sabreclawd, Red Skulk firing at Captain Americlawd's shield">
 </p>
 
-> **Marvelous Clawds (formerly Clawdvengers: Clawd Wars) is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with three universes: **Marvelous Clawds**, **Star Clawds** and **Detective Clawds**. This page shows off the Marvelous Clawds one. Everything else (all three universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
+> **Marvelous Clawds (formerly Clawdvengers: Clawd Wars) is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes: **Marvelous Clawds**, **Star Clawds**, **Detective Clawds** and **Doctor Clawd**. This page shows off the Marvelous Clawds one. Everything else (all the universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
 
 ---
 
@@ -134,10 +134,11 @@ That installs Clawd Clash, starting in Marvelous Clawds. `brew install --cask cl
 
 Already have the old Clawdvengers app? Clawd Clash takes over the AIs it had connected and starts in Marvelous Clawds, so the old app can go.
 
-**Two more universes come with it**, one setting away (Settings… → Universe, or **Random** to switch on its own every so often):
+**More universes come with it**, one setting away (Settings… → Universe, or **Random** to switch on its own every so often):
 
 - **Star Clawds**: laser swords, blasters and dark lightning, from the Mos Easy Cantina to the Battle of Froth. Its own page: [Star Clawds](https://github.com/rodclemen/star-clawds).
 - **Detective Clawds**: fists, swords, heat vision, power rings, clawdarangs and magic, from the Lookout to the Hall of Gloom. Its own page: [Detective Clawds](https://github.com/rodclemen/detective-clawds).
+- **Doctor Clawd**: sonic screwdrivers, Dalicks and the TARDIS, from the console room to Sanctuary Base 6. Its own page: [Doctor Clawd](https://github.com/rodclemen/doctor-clawd).
 
 Setup details, uninstalling and the source code are all in the [Clawd Clash README](https://github.com/rodclemen/clawd-clash#readme).
 

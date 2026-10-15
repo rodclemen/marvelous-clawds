@@ -4,7 +4,7 @@
 
 - Marvelous Clawds has 193 characters (105 heroes, 88 villains) and 43 places, all with parody names: Iron Clawd, Captain Americlawd, Thorr, Spider-Clawd, Clawdverine, Thanoz, Lokee, Clawdvengers Tower, Wakandu, Asgaard, the Clawdjet and the Milano.
 - Install: `brew tap rodclemen/tap && brew trust rodclemen/tap && brew install --cask marvelous-clawds` installs Clawd Clash starting in Marvelous Clawds (`brew trust` only on newer Homebrew); `brew install --cask clawd-clash`, or https://github.com/rodclemen/clawd-clash/releases.
-- The other universes: Star Clawds (https://github.com/rodclemen/star-clawds) and Detective Clawds (https://github.com/rodclemen/detective-clawds).
+- The other universes: Star Clawds (https://github.com/rodclemen/star-clawds) Detective Clawds (https://github.com/rodclemen/detective-clawds) and Doctor Clawd (https://github.com/rodclemen/doctor-clawd).
 
 ## Docs
 
