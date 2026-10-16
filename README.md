@@ -122,7 +122,7 @@ The scene is set **where the first session's character belongs**: Clawdvengers T
 
 ## Get it
 
-Marvelous Clawds is a universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ on Apple silicon (Clawd Clash 3.5.0 was the last release for Intel Macs) and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
+Marvelous Clawds is a universe of **[Clawd Clash](https://github.com/rodclemen/clawd-clash)**. It needs macOS 13+ on Apple silicon and at least one of Claude Code, Codex, Qwen Code, Gemini CLI or GitHub Copilot CLI.
 
 ```sh
 brew tap rodclemen/tap
