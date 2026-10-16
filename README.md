@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/6b4f2fc2-30cf-4566-a921-0b84d4066867
   <img src="docs/desktop.png" alt="Sessions and agents fighting along the bottom of the screen: Thanoz blasting Iron Clawd in the air, Spider-Clawd webbing the Green Gobbler, Clawdverine and Sabreclawd, Red Skulk firing at Captain Americlawd's shield">
 </p>
 
-> **Marvelous Clawds (formerly Clawdvengers: Clawd Wars) is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes: **Marvelous Clawds**, **Star Clawds**, **Detective Clawds**, **Doctor Clawd**, **The Clawd Files** and **Stevie Clawdberg**. This page shows off the Marvelous Clawds one. Everything else (all the universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
+> **Marvelous Clawds (formerly Clawdvengers: Clawd Wars) is a universe of [Clawd Clash](https://github.com/rodclemen/clawd-clash)**, one app with multiple universes: **Marvelous Clawds**, **Star Clawds**, **Detective Clawds**, **Doctor Clawd**, **The Clawd Files**, **Stevie Clawdberg** and **Clawd of the Rings**. This page shows off the Marvelous Clawds one. Everything else (all the universes, setup, uninstalling, the source code) lives in the [Clawd Clash repo](https://github.com/rodclemen/clawd-clash).
 
 ---
 
