@@ -2,6 +2,10 @@
 
 The changes you'd notice in the Marvelous Clawds universe, newest first. Clawdvengers: Clawd Wars now lives on as part of [Clawd Clash](https://github.com/rodclemen/clawd-clash); its [changelog](https://github.com/rodclemen/clawd-clash/blob/main/CHANGELOG.md) has the full story, every detail included.
 
+## 2026-10-17
+
+- **The trailer plays for everyone.** The video at the top of this page only played for people signed in to GitHub. It's uploaded again, freshly rendered with today's BRING YOUR OWN AI line-up: every AI Clawd Clash supports, pi included.
+
 ## 3.0.0: joins Clawd Clash
 
 - **One app, three universes.** Clawdvengers: Clawd Wars is now the Marvelous Clawds universe of Clawd Clash, next to Star Clawds and Detective Clawds. Pick one in Settings; a scene never mixes them. Switching recasts everyone on screen and moves the scene to one of the new universe's places.
